@@ -1,2 +1,2 @@
-ethg242.github.com
+ethg242.github.io
 ==================
