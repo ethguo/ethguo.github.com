@@ -1,0 +1,8 @@
+title: Ethan Guo
+description: Student, Developer, Artist.
+google_analytics: UA-62134210-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
