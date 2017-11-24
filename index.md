@@ -4,6 +4,10 @@
 
 [JAMHacks](http://jamhacks.ca/) was Waterloo's first high school hackathon, organized by high school students. Our aim is to expose more high schoolers to the hackathon community and inspire them to pursue more creative, innovative projects and careers in technology. On April 9th, 2017, over 100 students from as far as Windsor, Toronto and Mississauga came out for our first 12 hour event!
 
+---
+
+### [Resume](/Resume.pdf)
+
 ## Recent Projects
 
 ### LEAP
